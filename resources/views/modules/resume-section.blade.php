@@ -4,7 +4,7 @@
             <div class="center-title">
                 <h1>MY RESUME</h1>
                 <p>
-                    My recent qualification and professional experience is listed below
+                    My recent qualifications and professional experience is listed below
                 </p>
             </div>
             <!-- resume content -->
