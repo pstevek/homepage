@@ -3,8 +3,9 @@
         <div class="row">
             <div class="center-title">
                 <h1>MY RESUME</h1>
-                <p>We diminution preference thoroughly if. Joy deal pain view much her time. Led young gay would now state.
-                    Pronounce we attention admitting on assurance of suspicion conveying</p>
+                <p>
+                    My recent qualification and professional experience is listed below
+                </p>
             </div>
             <!-- resume content -->
             <div class="col-md-12 top_45">

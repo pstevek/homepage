@@ -3,8 +3,9 @@
         <div class="row">
             <div class="center-title">
                 <h1>GET IN TOUCH</h1>
-                <p>We diminution preference thoroughly if. Joy deal pain view much her time. Led young gay would now state.
-                    Pronounce we attention admitting on assurance of suspicion conveying</p>
+                <p>
+                    Have a project in mind and not sure were to start ? Let's connect and make those ideas come true :)
+                </p>
             </div>
             <div class="col-md-12">
                 <div class="row">
