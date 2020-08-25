@@ -236,7 +236,6 @@ $('.widget-twitter .tweet').twittie({
     if ($('.contact-form').length) {
         $(".contact-form").on('submit', function (e) {
             e.preventDefault();
-            var uri = $(this).attr('action');
             $("#con_submit").val('Wait...');
             var con_name = $("#con_name").val();
             var con_email = $("#con_email").val();
@@ -257,13 +256,19 @@ $('.widget-twitter .tweet').twittie({
                 }
             });
             if (required === 0) {
+                $.ajaxSetup({
+                    headers: {
+                        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                    }
+                });
+
                 $.ajax({
-                    type: "POST"
-                    , url: 'mail.php'
-                    , data: {
-                        con_name: con_name
-                        , con_email: con_email
-                        , con_message: con_message
+                    type: "POST",
+                    url: '/contact',
+                    data: {
+                        con_name: con_name,
+                        con_email: con_email,
+                        con_message: con_message
                     }
                     , success: function (data) {
                         $(".contact-form input, .contact-form textarea").val('');
