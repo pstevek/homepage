@@ -13,7 +13,7 @@
                 <p>
                     I am a Computer Science graduate with five years experience as a Web Developer.
                     I've done remote work for agencies, consulted with startups and collaborated with talented people to create digital products for both business and consumer use.
-                    I'm a Full-Stack Developer at <a href="https://www.double-eye.com">Double Eye</a> in Cape Town, South Africa.
+                    I'm a Full-Stack Developer at <a href="https://www.syw.io/">SYW.io</a> in Cape Town, South Africa.
                     I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
                 </p>
                 <ul class="col-md-12 giggs-list">
