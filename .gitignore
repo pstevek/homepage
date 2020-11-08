@@ -1,13 +1,12 @@
-/node_modules
-/public/hot
-/public/storage
-/storage/*.key
-/vendor
-/.idea
-.env
-.env.backup
-.phpunit.result.cache
-Homestead.json
-Homestead.yaml
-npm-debug.log
-yarn-error.log
+# Add any directories, files, or patterns you don't want to be tracked by
+# version control
+/src/.idea
+/src/.vagrant
+/database
+.DS_Store
+.vscode
+.idea
+.vscode/*
+/redis
+/.volumes
+src/storage/app/public/*.png
