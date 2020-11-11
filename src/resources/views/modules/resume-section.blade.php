@@ -43,9 +43,16 @@
                         <span>EXPERIENCE</span>
                     </div>
                     <div class="resume-out">
+
                         <div class="resume-info">
-                            <h2 class="info-title">Fullstack Web Developer - Double Eye</h2>
-                            <span class="info-date">2019 - Present </span>
+                            <h2 class="info-title">Full Stack Developer - SYW.io</h2>
+                            <span class="info-date">Nov 2020 - present </span>
+                            <p>Implementing Back-end & Front-end related features, as well as DevOps and automation approaches </p>
+                        </div> <!-- .resume-info -->
+
+                        <div class="resume-info">
+                            <h2 class="info-title">Full Stack Developer - Double Eye</h2>
+                            <span class="info-date">Mar 2019 - Nov 2020 </span>
                             <p>
                                 Working on front-end and back-end related tasks for developing new features alongside graphic designers for web design features, as well as RESTful API integrations
                             </p>
@@ -53,14 +60,8 @@
 
                         <div class="resume-info">
                             <h2 class="info-title">Software Developer - Double Eye</h2>
-                            <span class="info-date">2017 - 2019 </span>
+                            <span class="info-date">May 2017 - Mar 2019 </span>
                             <p>Back-end developer with Python/Django and PHP/Laravel</p>
-                        </div> <!-- .resume-info -->
-
-                        <div class="resume-info">
-                            <h2 class="info-title">Computer Science Tutor - UWC</h2>
-                            <span class="info-date">2015 - 2016 </span>
-                            <p>Helped struggling and novice students with basic programming skills and encouraged them with supportive language and patient teaching approaches.</p>
                         </div> <!-- .resume-info -->
                     </div> <!-- .resume-out end -->
                 </div>
