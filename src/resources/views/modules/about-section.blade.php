@@ -23,7 +23,7 @@
                     <li><span>Skype : </span><a href="skype:pstevek?chat">pstevek</a></li>
                     <li><span>Address : </span>Cape Town, South Africa</li>
                 </ul>
-                <a href="https://bit.ly/2DivsHA" target="_blank" class="giggs_button top_15">DOWNLOAD CV</a>
+                {{--<a href="https://bit.ly/2DivsHA" target="_blank" class="giggs_button top_15">DOWNLOAD CV</a>--}}
             </div>
         </div>
     </div>
