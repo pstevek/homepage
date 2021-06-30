@@ -34,9 +34,9 @@ class ContactMail extends Mailable
         return $this->markdown('emails.contact-me')
             ->subject('Contact Request: ' . $this->contactForm['con_name'])
             ->with([
-           'name' => $this->contactForm['con_name'],
-           'email' => $this->contactForm['con_email'],
-           'message' => $this->contactForm['con_message']
-        ]);
+                'name' => $this->contactForm['con_name'],
+                'email' => $this->contactForm['con_email'],
+                'message' => $this->contactForm['con_message']
+            ]);
     }
 }

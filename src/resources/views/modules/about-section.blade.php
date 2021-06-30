@@ -18,7 +18,7 @@
                 </p>
                 <ul class="col-md-12 giggs-list">
                     <li><span>Name : </span>Steve Kamanke</li>
-                    <li><span>Contact Number: </span><a href="tel:+27792365185">+27 79 236 5185</a></li>
+                    <li><span>Contact Number: </span><a href="tel:+27834381736">+27 83 438 1736</a></li>
                     <li><span>Email : </span><a href="mailto:pstevek@atlas-sys.net">pstevek@atlas-sys.net</a></li>
                     <li><span>Skype : </span><a href="skype:pstevek?chat">pstevek</a></li>
                     <li><span>Address : </span>Cape Town, South Africa</li>
