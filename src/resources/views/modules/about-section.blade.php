@@ -3,7 +3,7 @@
         <div class="row">
             <!-- Profile Image -->
             <div class="col-md-4 profile">
-                <img src="{{ asset('images/profile.jpg') }}">
+                <img src="{{ asset('images/profile.jpeg') }}">
             </div>
             <!-- About Information -->
             <div class="col-md-8 about-info top_30">
@@ -11,14 +11,14 @@
                     <h1>ABOUT ME</h1>
                 </div>
                 <p>
-                    I am a Computer Science graduate with five years experience as a Web Developer.
+                    I am a Computer Science graduate with six years experience as a Web Developer.
                     I've done remote work for agencies, consulted with startups and collaborated with talented people to create digital products for both business and consumer use.
-                    I'm a Full-Stack Developer at <a href="https://www.syw.io/">SYW.io</a> in Cape Town, South Africa.
+                    I'm a Software Engineer at <a href="https://www.superbalist.com/">Superbalist.com</a> in Cape Town, South Africa.
                     I'm quietly confident, naturally curious, and perpetually working on improving my chops one design problem at a time.
                 </p>
                 <ul class="col-md-12 giggs-list">
                     <li><span>Name : </span>Steve Kamanke</li>
-                    <li><span>Contact Number: </span><a href="tel:+27792365185">+27 79 236 5185</a></li>
+                    <li><span>Contact Number: </span><a href="tel:+27834381736">+27 83 438 1736</a></li>
                     <li><span>Email : </span><a href="mailto:pstevek@atlas-sys.net">pstevek@atlas-sys.net</a></li>
                     <li><span>Skype : </span><a href="skype:pstevek?chat">pstevek</a></li>
                     <li><span>Address : </span>Cape Town, South Africa</li>

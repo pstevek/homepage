@@ -13,7 +13,7 @@
                     <div class="col-md-offset-2 col-md-8 contact-information top_45">
                         <div class="col-md-4 contact-info text-center">
                             <i class="fa fa-phone" aria-hidden="true"></i>
-                            <p>+27 79 236 5185</p>
+                            <p>+27 83 438 1736</p>
                         </div>
                         <div class="col-md-4 contact-info text-center">
                             <i class="fa fa-map-marker" aria-hidden="true"></i>
